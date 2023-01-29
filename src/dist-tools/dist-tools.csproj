@@ -20,6 +20,13 @@
         <ToolTarget Include="netcoreapp3.1|linux-arm" TargetFramework="netcoreapp3.1" RuntimeIdentifier="linux-arm" />
         <ToolTarget Include="netcoreapp3.1|linux-arm64" TargetFramework="netcoreapp3.1" RuntimeIdentifier="linux-arm64" />
         <ToolTarget Include="netcoreapp3.1|osx-x64" TargetFramework="netcoreapp3.1" RuntimeIdentifier="osx-x64" />
+        <ToolTarget Include="net6.0|win7-x64" TargetFramework="net6.0" RuntimeIdentifier="win7-x64" />
+        <ToolTarget Include="net6.0|win7-x86" TargetFramework="net6.0" RuntimeIdentifier="win7-x86" />
+        <ToolTarget Include="net6.0|win81-arm" TargetFramework="net6.0" RuntimeIdentifier="win81-arm" />
+        <ToolTarget Include="net6.0|linux-x64" TargetFramework="net6.0" RuntimeIdentifier="linux-x64" />
+        <ToolTarget Include="net6.0|linux-arm" TargetFramework="net6.0" RuntimeIdentifier="linux-arm" />
+        <ToolTarget Include="net6.0|linux-arm64" TargetFramework="net6.0" RuntimeIdentifier="linux-arm64" />
+        <ToolTarget Include="net6.0|osx-x64" TargetFramework="net6.0" RuntimeIdentifier="osx-x64" />
     </ItemGroup>
 
     <!-- Runs once per TFM/RID combination to generate individual output. -->

@@ -10,7 +10,7 @@ file with contents like the following, using the latest version.
 ```
 <Project Sdk="IKVM.NET.Sdk/8.2.2">
     <PropertyGroup>
-        <TargetFrameworks>net461;netcoreapp3.1</TargetFrameworks>
+        <TargetFrameworks>net461;netcoreapp3.1;net6.0</TargetFrameworks>
     </PropertyGroup>
 </Project>
 ```
